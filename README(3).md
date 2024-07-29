@@ -19,7 +19,8 @@ To come up with a reasonable budget to put into the project.
 ![alt text]https://github.com/kiprotich2025/phase-2-project/blob/main/images/corr%201.png?raw=true
 
  The correlation between runtime and rating can be visualized using a scatter plot as illustrated above.
-![alt text](https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%202.png)
+
+(https://github.com/faith-watene/dsc-phase-2-project-v3/blob/cbf50d9d79cbb1347191c70422a579ba9f8b2d4f/corr%202.png)
 
 The image above shows that the bars are concentrated around the center of the graph indicating that
  most ratings fall within a middle range.
