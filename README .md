@@ -19,35 +19,24 @@ To come up with a reasonable budget to put into the project.
 
 
 #### Data Analysis
-![alt text](<corr 1-1.png>)
+https://github.com/kiprotich2025/phase-2-project/blob/main/images/cov2.png?raw=true
 
  The correlation between runtime and rating can be visualized using a scatter plot as illustrated above.
 
-![alt text](<corr 2-1.png>)
+https://github.com/kiprotich2025/phase-2-project/blob/main/images/cov2.png?raw=true
 
 The image above shows that the bars are concentrated around the center of the graph indicating that
  most ratings fall within a middle range.
 
-![alt text](<corr 3-1.png>)
+https://github.com/kiprotich2025/phase-2-project/blob/main/images/cov3.png?raw=true
 
 The above image helps us understand how the number of votes a movie has affects the ratings.
 
-![alt text](<corr 4-1.png>)
+https://github.com/kiprotich2025/phase-2-project/blob/main/images/cov4.png?raw=true
 
-This shows the biggest genres in the industry.
 
-![alt text](<corr 5-1.png>)
-
-This shows the fluctuations between foreign and domestic revenues.
-
-![alt text](<corr 6-1.png>)
 
 The above image shows that there's no increase in revenue given a higher budget is allocated.
-
-![alt text](cov.png)
-![alt text](cov2.png)
-![alt text](cov3.png)
-![alt text](cov4.png)
 
 ***Conclusion***
 * The budget doesn't guarantee a higher revenue. This shows us wee need to be careful in how much we add to the budget because we can get serious losses.
