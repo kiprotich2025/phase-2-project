@@ -25,3 +25,15 @@ this shows fluctuations between foreign and domestic revenues
 
 this shows there is no increase in revenue given a higher budget is allocated
 
+***Conclusion***
+* The budget doesnt guarantee a high revenue
+* runtime doesnt affect ratings of movie
+* the best enjoyed shows are documentary,drama and biography genres
+
+
+***Recomendations***
+* focus on movies with runtime of more than 120mins coz has a potentially higher rating
+* be sure to chose a movie with a budget of at least $100 million,will give you a goood starting point for your movie.
+* Keep a popularity of your movie ,it can help you make sure its a hit
+* choose a a genre that is not popular like drama ,comedy etc,as it will make your movie more appealing to wider audience.moderate  movie can have great success.
+  
